@@ -1,0 +1,45 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 640px;
+    height: 100%;
+    padding-top: 15px;
+    margin: 0 auto;
+}
+#startGame{
+    padding: 10px 10px;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#startGame:hover{
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#D0ECF4), to(#D0ECF4), color-stop(0.5, #5BC9E1));
+}
+
+.card {
+    min-width: 150px;
+    min-height: 150px;
+    border: 1px solid gray;
+    margin: 8px 8px 0 0;
+    cursor: pointer;
+    background-size: cover;
+}
+
+#board {
+    width: 640px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+#controlPanel {
+    text-align: center;
+
+}
+
+#scoreOutput {
+    font-weight: bold;
+    font-size: 25px;
+}
+
