@@ -1,7 +1,9 @@
-#Memory Game
+Memory Game
+===========
 ___
 
-##What inbuilt functions are used in the game
+What inbuilt functions are used in the game
+-------------------------------------------
 
 + **classes**
 + addEventListener
@@ -12,7 +14,8 @@ ___
 
 ___
 
-##Rules
+Rules
+-----
 
 + The playing field contains 20 cards (10 pictures, 2 copies of each).
 + You will start by flipping over one card
@@ -23,6 +26,7 @@ ___
 
 ___
 
-##How to play
+How to play
+-----------
 
 Click [here](https://bilitskiy.github.io/Memory_Game/) to launch the game.
